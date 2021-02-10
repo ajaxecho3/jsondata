@@ -1,5 +1,4 @@
-{
-    "data_point": [
+[
         {
             "question label": "serial",
             "question text": "survey ID",
@@ -2095,5 +2094,3 @@
             ]
         }
     ]
-   
-}
